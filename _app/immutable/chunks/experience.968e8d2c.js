@@ -1,4 +1,4 @@
-import{A as e}from"./UIcon.ccef43d7.js";import{g as t}from"./skills.faaf3a3e.js";import{C as o}from"./types.585195e1.js";const s=[{slug:"open-sourcer",company:" V4U Tracking Solutions Limited",description:`Software Developer Intern
+import{A as e}from"./UIcon.ecb28236.js";import{g as t}from"./skills.f9abd352.js";import{C as o}from"./types.585195e1.js";const s=[{slug:"open-sourcer",company:" V4U Tracking Solutions Limited",description:`Software Developer Intern
 		V4U Tracking Solutions Limited
 		
 		- Developed and deployed mobile apps for iOS and Android using React Native.
