@@ -204,7 +204,7 @@ The Time Tracker application includes an admin panel for user login and logout, 
 		period: {
 			from: new Date(2023, 1, 1), to: new Date(2023, 2, 0)
 		},
-		skills: getSkills('react-native', 'js','tailwindcss','react','nodejs','mongodb'),
+		skills: getSkills('java'),
 		type: 'Web + Mobile  Application',
 		screenshots: [
 			{
